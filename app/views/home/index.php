@@ -3,7 +3,7 @@
         <div class="container-fluid py-5">
             <h1 class="display-5 fw-bold">Selamat Datang di Website Saya!</h1>
             <p class="col-md-8 fs-4">
-            This is a simple hero unit, a simple jumbotron-style component.
+                Halo, perkenalkan nama saya <?= $data['nama'] ?>
             </p>
             <button class="btn btn-primary btn-lg" type="button">
             Learn more
