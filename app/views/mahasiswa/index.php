@@ -42,7 +42,7 @@
                 </div>
                 <div class="mb-3">
                     <label for="nim" class="form-label">NIM</label>
-                    <input type="text" class="form-control" name="nim" id="nim">
+                    <input type="number" class="form-control" name="nim" id="nim">
                 </div>
                 <div class="mb-3">
                     <label for="jurusan" class="form-label">Jurusan</label>
